@@ -48,6 +48,6 @@ Scriptly is our college mini-project demonstrating a complete pipeline:
 |---------------------------|-----------|
 | **Ashish Kumar Chahar**    | Developed the **keyword extraction and classification model** (TF-IDF, Logistic Regression, Random Forest, balanced dataset). |
 | **Gopal Varshney**         | Integrated and configured the **Faster-Whisper speech-to-text engine** with pre and post processing. |
-| **Kush Gupta**             | Built the **HTML/CSS UI** for displaying transcribed text. |
-| **Anant Seth**             | Enhanced and styled the **front-end**;                     |
+| **Kush Gupta**             | Designed and built a **modern, responsive landing page** and the initial HTML/CSS layout to showcase the app. |
+| **Anant Seth**             | Enhanced the **UI styling and user experience**, refined the HTML/CSS components into a **clean, accessible interface**. |
 
